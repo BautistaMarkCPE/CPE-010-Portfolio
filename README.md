@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="images/banner.png" width="100%" alt="CPE-010 Portfolio Banner">
+</div>
 <div align="center">
 
 # 💻 CPE-010 Portfolio
