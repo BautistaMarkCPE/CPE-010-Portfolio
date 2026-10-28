@@ -26,9 +26,9 @@ Hi! I'm **Mark Joneil S. Bautista**, a Computer Engineering student at T.I.P. Qu
 ## 📚 My Activities
 
 - 📝 Course Activities
-- 💻 Programming Exercises
-- 📊 Learning Outputs
-- 🚀 Projects and Experiments
+- PRELIM
+- MIDTERM
+- FINALS
 
 ---
 
